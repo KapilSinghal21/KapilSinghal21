@@ -14,73 +14,70 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🚀 Kapil Singhal  
-### Data Science Enthusiast | Machine Learning | DSA  
+# Hello, I'm Kapil Singhal 👋
 
-I am a data science enthusiast focused on extracting insights from data and building intelligent systems using machine learning.  
+## Data Science Enthusiast | Machine Learning | DSA  
 
-With a strong foundation in **Data Structures & Algorithms**, I approach problems with efficiency and scalability in mind.
-
----
-
-## 🧠 Core Skills
-
-### 💻 Programming
-- Python (Primary)  
-- C, C++  
-
-### 📊 Data Science & ML
-- Data Analysis (Pandas, NumPy)  
-- Data Visualization (Matplotlib, Seaborn)  
-- Machine Learning (Scikit-learn)  
-- Exploratory Data Analysis (EDA)  
-- Feature Engineering  
-
-### 🗄️ Databases
-- MongoDB  
-- MySQL  
-
-### ⚙️ Tools & Technologies
-- Jupyter Notebook  
-- Git & GitHub  
-- Linux  
+I'm a data science enthusiast passionate about extracting insights from data and building intelligent systems using machine learning, with a strong foundation in data structures and algorithms for efficient problem-solving.
 
 ---
 
-## 🎯 What I Do
+## 🛠️ Technical Skills  
+
+### 💻 Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
+
+---
+
+### 📊 Data Science & ML  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffffff?style=flat-square&logo=plotly&logoColor=black)  
+![Seaborn](https://img.shields.io/badge/-Seaborn-2E8B57?style=flat-square)  
+![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  
+
+---
+
+### 🗄️ Databases  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+
+---
+
+### ⚙️ Tools & Technologies  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
+
+---
+
+## 🎯 What I Do  
 
 - 📊 Analyze datasets to uncover patterns and insights  
 - 🤖 Build machine learning models for real-world problems  
 - 📈 Perform data visualization and storytelling  
-- 🧹 Clean and preprocess raw data for better accuracy  
-- 🧠 Apply DSA concepts for optimized solutions  
+- 🧹 Clean and preprocess raw data  
+- 🧠 Apply DSA for optimized solutions  
 
 ---
 
-## 🔥 Currently Working On
+## 🌱 Currently Working On  
 
 - Building **end-to-end data science projects**  
-- Practicing **EDA + feature engineering on real datasets**  
+- Practicing **EDA on real-world datasets (Kaggle)**  
 - Learning **advanced machine learning concepts**  
-- Solving **DSA problems for strong problem-solving skills**  
-- Exploring **real-world datasets (Kaggle, open data)**  
+- Strengthening **DSA & problem solving**  
 
 ---
 
-## 📈 Goal
+## 🔗 Connect With Me  
 
-🎯 Secure a **Data Science / ML role (9–12+ LPA)** by:
-- Building strong real-world projects  
-- Mastering machine learning fundamentals  
-- Improving analytical thinking & problem solving  
-
----
-
-## 🔗 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/KapilSinghal21/  
-- 🐦 Twitter: https://twitter.com/KapilSinghal_  
-- 📧 Email: kapilsinghal1805@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KapilSinghal21/)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/KapilSinghal_)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kapilsinghal1805@gmail.com)  
 
 ---
 
