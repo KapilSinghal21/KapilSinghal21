@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hello, I'm Kapil Singhal 👋  
 
-## Aspiring Data Engineer | Cloud Learner | DSA  
+## Aspiring Data Engineer | DSA Enthusiastic | Cloud Learner
 
 I’m an aspiring **Data Engineer** passionate about building scalable data pipelines and transforming raw data into actionable insights.  
 My primary focus is on **data engineering**, while gaining hands-on experience in **cloud technologies** and exploring **Databricks & big data concepts**, along with strengthening my **problem-solving (DSA)** skills.  
