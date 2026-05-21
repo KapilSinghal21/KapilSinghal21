@@ -14,56 +14,65 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello, I'm Kapil Singhal 👋  
+# Hi, I'm Kapil Singhal 👋  
 
-## Aspiring Data Engineer | DSA Enthusiastic | Cloud Learner
+## Data Engineering Intern | Building Scalable Data Systems  
 
-I’m an aspiring **Data Engineer** passionate about building scalable data pipelines and transforming raw data into actionable insights.  
-My primary focus is on **data engineering**, while gaining hands-on experience in **cloud technologies** and exploring **Databricks & big data concepts**, along with strengthening my **problem-solving (DSA)** skills.  
+I’m a **Data Engineering Intern at Celebal Technologies (CEI Program)** focused on building **end-to-end data pipelines**, working with **Python, SQL, and cloud technologies**.  
 
----
-
-## 🛠️ Technical Skills  
-
-### Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Data Engineering & Databases  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![ETL](https://img.shields.io/badge/-ETL-0A66C2?style=flat-square&logo=databricks&logoColor=white) ![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-FF6F00?style=flat-square&logo=apache&logoColor=white)
-
-### ☁️ Cloud & Big Data  
-![AWS (Hands-on)](https://img.shields.io/badge/-AWS%20(Hands--on)-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Databricks (Learning)](https://img.shields.io/badge/-Databricks%20(Learning)-EF3E42?style=flat-square&logo=databricks&logoColor=white)
-
-### ⚙️ Tools  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-DA5B0B?style=flat-square&logo=jupyter&logoColor=white) ![MySQL Tool](https://img.shields.io/badge/-MySQL%20Tool-4479A1?style=flat-square&logo=mysql&logoColor=white)
+I don’t just learn concepts — I implement them through structured projects and real datasets.
 
 ---
 
-## 🚀 Focus Areas  
+## 🚀 Experience  
 
-- 🔄 Building ETL/ELT pipelines using Python & SQL  
-- 📊 Data Cleaning, Transformation & Validation  
-- 🗄️ Data Modeling (Star Schema, Basic Warehousing Concepts)  
-- ☁️ Cloud-based Data Processing (AWS - learning phase)  
-- ⚡ Exploring Big Data concepts (Databricks & Spark basics)  
+**Data Engineering Intern — Celebal Technologies (CEI Program)**  
+- 8-week intensive internship covering: Python, SQL, Data Engineering, Data Cleaning, Spark & Databricks  
+- Working on real-world data problems and pipeline-based architecture  
+- Final project (shortlisted candidates): **Medallion Architecture (Data Flow Inc)**  
 
 ---
 
-## 🌱 Currently Working On  
+## 🏆 Certifications  
 
-- Building **end-to-end data engineering projects** (ingestion → transformation → storage)  
-- Learning **Databricks & Apache Spark basics**  
-- Practicing **advanced SQL (joins, window functions, optimization)**  
-- Gaining **hands-on experience with AWS cloud services**  
-- Solving **DSA problems for backend efficiency & logic building**  
+- ServiceNow Certified System Administrator (CSA)  
+- ServiceNow Certified Application Developer (CAD)  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages:** Python, SQL, C++  
+**Data:** MySQL, MongoDB, Data Modeling, ETL/ELT  
+**Cloud & Big Data:** AWS (Hands-on), Databricks, Apache Spark (Basics)  
+**Tools:** Git, GitHub, Jupyter  
+
+---
+
+## 📌 What I’m Building  
+
+- End-to-end **Data Engineering Projects** (Ingestion → Transformation → Storage)  
+- Real-world **data cleaning & transformation pipelines**  
+- SQL-based **analytical problem solving (advanced queries, optimization)**  
+- Hands-on **Spark & Databricks workflows**  
+
+---
+
+## 📊 Current Focus  
+
+- Writing **production-level clean code**  
+- Building **portfolio projects that demonstrate real impact**  
+- Strengthening **problem-solving (DSA)** for backend efficiency  
+- Improving **communication & explanation skills**  
 
 ---
 
 ## 🔗 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KapilSinghal21/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/KapilSinghal_) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kapilsinghal1805@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/KapilSinghal21/  
+- Email: kapilsinghal1805@gmail.com  
 
 ---
 
-⭐️ From [KapilSinghal21](https://github.com/KapilSinghal21)
+⭐️ Focused on becoming a **Data Engineer who can design, build, and scale data systems**
 
