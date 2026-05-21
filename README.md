@@ -27,9 +27,9 @@ I don’t just learn concepts — I implement them through structured projects a
 ## 🚀 Experience  
 
 **Data Engineering Intern — Celebal Technologies (CEI Program)**  
-- 8-week intensive internship covering: Python, SQL, Data Engineering, Data Cleaning, Spark & Databricks  
+- Working on real-world data engineering problems using Python, SQL, Spark & Databrick
 - Working on real-world data problems and pipeline-based architecture  
-- Final project (shortlisted candidates): **Medallion Architecture (Data Flow Inc)**  
+- Building a project focused on designing scalable data pipelines and implementing data engineering best practices
 
 ---
 
