@@ -27,8 +27,7 @@ I don’t just learn concepts — I implement them through structured projects a
 ## 🚀 Experience  
 
 **Data Engineering Intern — Celebal Technologies (CEI Program)**  
-- Working on real-world data engineering problems using Python, SQL, Spark & Databrick
-- Working on real-world data problems and pipeline-based architecture  
+- Working on real-world data engineering problems using Python, SQL, Spark & Databrick 
 - Building a project focused on designing scalable data pipelines and implementing data engineering best practices
 
 ---
@@ -43,9 +42,9 @@ I don’t just learn concepts — I implement them through structured projects a
 ## 🛠️ Tech Stack  
 
 **Languages:** Python, SQL, C++  
-**Data:** MySQL, MongoDB, Data Modeling, ETL/ELT  
-**Cloud & Big Data:** AWS (Hands-on), Databricks, Apache Spark (Basics)  
-**Tools:** Git, GitHub, Jupyter  
+**Data:** MySQL, Data Modeling, ETL/ELT  
+**Cloud & Big Data:** AWS (Hands-on), Databricks (Learning), Apache Spark (Basics)  
+**Tools:** Git, GitHub, Jupyter Notebook  
 
 ---
 
